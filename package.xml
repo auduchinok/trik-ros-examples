@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>trik_ros_examples</name>
+  <version>0.0.1</version>
+  <description>Trikros usage examples</description>
+
+  <maintainer email="eugene.auduchinok@gmail.com">Eugene Auduchinok</maintainer>
+  <license>MIT</license>
+  <url type="website">https://github.com/auduchinok/trik-ros-examples</url>
+  <author email="eugene.auduchinok@gmail.com">Eugene Auduchinok</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>joy</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>turtlesim</build_depend>
+  <run_depend>joy</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>turtlesim</run_depend>
+
+  <export>
+  </export>
+</package>
